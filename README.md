@@ -37,5 +37,4 @@ The script performs the following steps:
 5. Updates the HTML to reference the uploaded assets correctly.
 6. Outputs the URL to access the migrated cat page on W3UP.
 
-## License
 
