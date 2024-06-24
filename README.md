@@ -6,7 +6,7 @@ This project migrates the front page of the HTTPS Status Cats website (https://h
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/http-cat-migrator.git
+    git clone https://github.com/hakierka/http-cat-migrator.git
     cd http-cat-migrator
     ```
 
