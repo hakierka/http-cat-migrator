@@ -21,7 +21,7 @@ This project migrates the front page of the HTTPS Status Cats website (https://h
     ```
 
 4. **Confirm login**
-    - Check your email (`your email`), confirm the login.
+    - Check your email, confirm the login.
 
 5. **Access the migrated page**
     - The URL will be displayed in the terminal after successful upload.
